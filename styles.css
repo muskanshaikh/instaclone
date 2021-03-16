@@ -487,11 +487,16 @@ font-weight: normal;
 
 
 
-
+.skip{
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+  padding: 20px;
+}
 .edit_profile_header{
   display: flex;
   justify-content: center;
-  padding: 30px 20px;
+  padding: 60px 20px;
   border-bottom: 1px solid #e6e6ee;
 margin:0 50px;
  
